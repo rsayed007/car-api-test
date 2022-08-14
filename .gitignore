@@ -1,0 +1,5 @@
+docker/dbdata/*
+docker-compose.yml
+.env
+make-ssl.sh
+.DS_Store
